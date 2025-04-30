@@ -19,7 +19,8 @@ Analysis customer behavior, retention trends, and lifetime value to enhance rete
 
 **📈 Visualisation:** 
 
-![alt text](../images/1_customer_segmentation.png)
+![alt text](images/1_customer_segmentation.png)
+
 
 📊 **Key Findings:**
 - High-value segment (25% of customers) drives 66% of revenue($135.4M)
@@ -76,7 +77,7 @@ Focus efforts on long-term retention rather than acquisition—ensuring sustaina
 
 **📈 Visualisation:** 
 
-![alt text](<../images/Cohort Analysis 1.png>)
+![alt text](<images/Cohort Analysis 1.png>)
 
 📊 **Key Findings:**
 - Declining Revenue Per Customer Over Time
@@ -155,7 +156,7 @@ Business should track customer engagement closely and work on strategies to main
 
 **📈 Visualisation:** 
 
-![alt text](../images/Customer_Churn_by_Cohort_Year.png)
+![alt text](images/Customer_Churn_by_Cohort_Year.png)
 
 📊 **Key Findings:**
 - Cohort Churn stabilizes at ≈90% after 2-3 years, indicating a predictable long-term retention pattern.
@@ -210,6 +211,6 @@ Business should track customer engagement closely and work on strategies to main
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL
+- **Analysis Tools:** PostgreSQL, DBeaver, PGAdmin
 - **Visualization:** PowerBI 
 ```
